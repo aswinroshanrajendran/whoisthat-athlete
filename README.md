@@ -10,7 +10,7 @@ This project is a **machine learning-powered web application** that can identify
 
 | Home Page               | Prediction Result             |
 |------------------------|-------------------------------|
-| ![homepage](screenshots/home.png) | ![result](screenshots/result.png) |
+| ![homepage](website.png) | ![result](website.png) |
 
 ---
 
